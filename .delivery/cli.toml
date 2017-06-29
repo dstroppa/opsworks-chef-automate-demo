@@ -1,0 +1,7 @@
+server = "levi-demo-bkydtaqjviwyenw0.us-west-2.opsworks-cm.io"
+api_protocol = "https"
+user = "admin"
+enterprise = "default"
+organization = "levi"
+git_port = "8989"
+pipeline = "master"
